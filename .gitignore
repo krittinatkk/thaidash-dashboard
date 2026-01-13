@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Environment variables
+.env
+.env.local
+
+# Data files (only ignore large data, not folder structure)
+*.csv
+*.xlsx
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
