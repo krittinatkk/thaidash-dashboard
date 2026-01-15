@@ -23,9 +23,5 @@ venv\Scripts\activate
 ## Activate on Mac/Linux
 source venv/bin/activate
 
-## Install dependencies
-pip install -r requirements.txt
-
 ## Run the dashboard
 streamlit run Home.py
-

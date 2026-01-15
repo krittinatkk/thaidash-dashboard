@@ -456,7 +456,7 @@ def main():
     st.markdown("""
     <div style='text-align: center; color: #6b7280; padding: 1rem;'>
         <p>📊 <strong>Event Analytics Dashboard</strong> • Part of ThaiDash Analytics Suite</p>
-        <p>Data last updated: {} • {} unique participants analyzed</p>
+        <p>Data last updated: {}</p>
     </div>
     """.format(
         datetime.now().strftime("%Y-%m-%d %H:%M"),
