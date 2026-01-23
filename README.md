@@ -25,3 +25,8 @@ source venv/bin/activate
 
 ## Run the dashboard
 streamlit run Home.py
+
+## Run on cloud
+Put 'bkk_data_final.csv' in thaidash-dashboard/data/raw
+
+# thaidash-dashboard.streamlit.app
